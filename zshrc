@@ -91,7 +91,7 @@ alias chrome="open -a 'Google Chrome'"
 alias go="rake dev:start"
 alias work="rake jobs:work"
 alias dotfiles="cd ~/dotfiles"
-alias todo="cd ~/projects/bidmessenger/todo; clear; vi README.md +Pencil;"
+alias todo="cd ~/projects/todo; clear; vi README.md +Pencil;"
 
 
 # ---------------------
